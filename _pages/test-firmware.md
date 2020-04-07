@@ -12,7 +12,7 @@ This is a test of the Syndicate Plugin for Firmware
 <table class="widefat fixed" cellspacing="0">
 <tbody>
 <tr class="alternate" data-row="2">
-<td>[firmware product_id="13929"]</td>
+</td>
 </tr>
 </tbody>
 </table>
