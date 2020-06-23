@@ -1,0 +1,64 @@
+---
+ID: 17022
+post_title: 'CORTEXDECODER: The Must-Have Software for Barcode Scanning Excellence'
+author: Kim Justesen
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.codecorp.com/cortexdecoder-the-must-have-software-for-barcode-scanning-excellence/
+published: true
+post_date: 2020-06-21 19:01:58
+---
+Feb 20, 2020
+<h2><strong>SCANNING IMPROVES OPERATIONS</strong></h2>
+<img class="alignright" src="https://codecorp.com/wp-content/uploads/2020/06/279ADA0800000578-3040439-The_Sainsbury_s_app_is_in_development_and_will_be_trialled_in_Wa-a-126_1429121325664.jpg" sizes="(max-width: 300px) 100vw, 300px" srcset="https://codecorp.com/wp-content/uploads/2020/06/1_279ADA0800000578-3040439-The_Sainsbury_s_app_is_in_development_and_will_be_trialled_in_Wa-a-126_1429121325664.jpg 150w, https://codecorp.com/wp-content/uploads/2020/06/279ADA0800000578-3040439-The_Sainsbury_s_app_is_in_development_and_will_be_trialled_in_Wa-a-126_1429121325664.jpg 300w, https://codecorp.com/wp-content/uploads/2020/06/1_279ADA0800000578-3040439-The_Sainsbury_s_app_is_in_development_and_will_be_trialled_in_Wa-a-126_1429121325664.jpg 450w, https://codecorp.com/wp-content/uploads/2020/06/1_279ADA0800000578-3040439-The_Sainsbury_s_app_is_in_development_and_will_be_trialled_in_Wa-a-126_1429121325664.jpg 600w, https://codecorp.com/wp-content/uploads/2020/06/1_279ADA0800000578-3040439-The_Sainsbury_s_app_is_in_development_and_will_be_trialled_in_Wa-a-126_1429121325664.jpg 750w, https://codecorp.com/wp-content/uploads/2020/06/1_279ADA0800000578-3040439-The_Sainsbury_s_app_is_in_development_and_will_be_trialled_in_Wa-a-126_1429121325664.jpg 900w" alt="279ADA0800000578-3040439-The_Sainsbury_s_app_is_in_development_and_will_be_trialled_in_Wa-a-126_1429121325664" width="300" height="142" />
+<div>
+
+Nearly everyone relies on mobile phones these days. Companies rely on employees’ familiarity with smartphones, and they take advantage of this trend in their own mobile device workflows. Leveraging the benefits of smartphones in the workplace requires informed decision-making. This becomes especially clear when evaluating and deploying barcode scanning software apps available on the market today. (<a href="https://www.entrepreneur.com/article/247266" target="_blank" rel="noopener noreferrer">https://www.entrepreneur.com/article/247266</a>)
+
+Interested in adopting barcode reading, executives turned to the surge of QR code scanning popularized by marketing industries. Using third party applications downloaded to iOS®, Android™, and Windows® devices, companies added a new dimension to advertising. A few hundred different vendors on App Store®, Google Play™, Windows Store, and other sites give away or sell these scanning apps. (<u><a href="http://www.business2community.com/marketing/qr-codes-thriving-dying" target="_blank" rel="noopener noreferrer">http://www.business2community.com/marketing/qr-codes-thriving-dying- 01228016#IXF18yREHOfvFjo8.97</a></u>)</div>
+<div>
+<div>
+<h2><strong>PROS AND CONS OF CONSUMER GRADE APPS</strong></h2>
+Free or inexpensive apps became common in the late 1990s and early 2000s.Today, many companies turn to these free or inexpensive apps for barcode scanning needs within their workflows. However, taking a few things into consideration when planning to roll out enterprise solutions will save time, money, and aggrivation. Many of these apps require additional software developed to handle the challenges faced in barcode scanning workflows. Also, these apps rarely work with every operating system. Users often need to seek additional programming assistance to reach the level of functionality they desire. (<u><a href="https://searchenginewatch.com/" target="_blank" rel="noopener noreferrer">https://searchenginewatch.com/ sew/how-to/2066777/top-14-things-marketers-need-know-about-qr-codes</a></u>)
+
+<img class="alignright" src="https://codecorp.com/wp-content/uploads/2020/06/barcode20samples.png" sizes="(max-width: 275px) 100vw, 275px" srcset="https://codecorp.com/wp-content/uploads/2020/06/1_barcode20samples.png 138w, https://codecorp.com/wp-content/uploads/2020/06/barcode20samples.png 275w, https://codecorp.com/wp-content/uploads/2020/06/1_barcode20samples.png 413w, https://codecorp.com/wp-content/uploads/2020/06/1_barcode20samples.png 550w, https://codecorp.com/wp-content/uploads/2020/06/1_barcode20samples.png 688w, https://codecorp.com/wp-content/uploads/2020/06/1_barcode20samples.png 825w" alt="barcode samples" width="275" height="194" />Many barcode types, or symbologies, other than QR Codes  exist in enterprise applications. 2D barcodes, developed for the purpose of packing thousands of data characters into the same space as a 1D barcode, gained popularity in the 1990s. Several 2D barcode symbologies came about to accommodate enterprise workflows. These symbologies feature characteristics such as small physical size and unique shape depending on the asset being labeled. Barcode types often get imposed upon the organization by external suppliers and companies must conform to their use. However, specific industries often develop their own symbologies for use within that industry.
+<h2>WHAT DOES FREE REALLY BUY?</h2>
+Free QR Code scanner apps can read only QR codes, or possibly a few 2D type barcodes. In addition, those apps probably won't read additional symbologies required for scanning by the phone. Scanning versatility allows users to optimize performance by toggling off unneeded symbologies, but free barcode readers typically don't have this option. Worker productivity requires an employee to scan a barcode swiftly and reliably without having to re-scan. A weak decoding algorithm, or a damaged or poorly printed barcode, causes a user to re-scan the same barcode and wait for a successful read. Rescanning leads to wasted time and frustration.
+
+The average smartphone camera includes a high mega-pixel image sensors and lens systems. In fact, camera phone resolution has improved to the point where it competes with purpose-built scanners.  The real secret to enterprise-level performance comes from the decoder algorithm and the design expertise behind it. The algorithms driving scanning apps work the same in smartphones as in purpose-built scanners. The choice in scanner depends on the type or purpose of the scanning itself.
+
+<img class="alignright" src="https://codecorp.com/wp-content/uploads/2020/06/boarding20pass.png" sizes="(max-width: 300px) 100vw, 300px" srcset="https://codecorp.com/wp-content/uploads/2020/06/1_boarding20pass.png 150w, https://codecorp.com/wp-content/uploads/2020/06/boarding20pass.png 300w, https://codecorp.com/wp-content/uploads/2020/06/1_boarding20pass.png 450w, https://codecorp.com/wp-content/uploads/2020/06/1_boarding20pass.png 600w, https://codecorp.com/wp-content/uploads/2020/06/1_boarding20pass.png 750w, https://codecorp.com/wp-content/uploads/2020/06/1_boarding20pass.png 900w" alt="boarding pass" width="300" height="129" /></div>
+<div>
+
+Barcode scanning has also moved beyond packaging in terms of the media on which barcodes are printed. Environmental efforts to reduce dependence on paper, and smartphone-centric lifestyles, increased demand for reading barcodes off smartphone LCD screens. Applications vary, but some familiar examples include: passing loyalty or coupon information from a smartphone to a point of sale (POS) system, and  presenting an electronic boarding pass at an airline terminal gate. 2D mobile barcode scanning continues growing daily. (<a href="https://www.cmocouncil.org/facts-stats-categories.php?view=all&amp;category=mobile-marketing" target="_blank" rel="noopener noreferrer">https://www.cmocouncil.org/facts-stats-categories.php?view=all&amp;category=mobile-marketing</a>)
+
+</div>
+<div>
+<h2><strong>FURTHER COMPLICATING ISSUES</strong></h2>
+An enterprise device needs to be fit for the job at hand. Many times free QR code software apps utilize a revenue model that depends on consumers clicking on ads placed within the program. Pop-up ads, banners, logos, or irrelevant notifications that block a view of the screen are a hassle. They interfere with scanning efficiency and cause user frustration. Anything which confuses or distracts an employee from scanning costs the company time and money. One dissatisfied customer commented on Amazon about a typical QR scanner app: “[Loaded] with ads that keep taking up screen space. I deleted it about ten minutes after downloading it. Will look for something better.” <u>(<a href="http://www.amazon.com/ScanLife-QR-Code-Barcode-Reader/product-reviews/%20B004XJNLQO?filterByStar=one_star&amp;pageNumber=1" target="_blank" rel="noopener noreferrer">http://www.amazon.com/ScanLife-QR-Code-Barcode-Reader/product-reviews/ B004XJNLQO?filterByStar=one_star&amp;pageNumber=1</a>)</u>
+
+<u><img class="alignright" src="https://codecorp.com/wp-content/uploads/2020/06/cellscann.png" sizes="(max-width: 276px) 100vw, 276px" srcset="https://codecorp.com/wp-content/uploads/2020/06/1_cellscann.png 138w, https://codecorp.com/wp-content/uploads/2020/06/cellscann.png 276w, https://codecorp.com/wp-content/uploads/2020/06/1_cellscann.png 414w, https://codecorp.com/wp-content/uploads/2020/06/1_cellscann.png 552w, https://codecorp.com/wp-content/uploads/2020/06/1_cellscann.png 690w, https://codecorp.com/wp-content/uploads/2020/06/1_cellscann.png 828w" alt="cellscann" width="276" height="191" /></u></div>
+<div>
+
+Underlying programs may capture device or usage data which could cause a company security issue. Enterprise software, like CortexDecoder®, comes with no embedded malware or ads. It supports an end user’s goal of getting the barcode scanning job done efficiently and effectively without distraction.
+
+When deploying a new scanning solution, having confidence that technical support is only a phone call away is key. App stores don't discriminate against individuals or companies uploading their QR code scanner apps. These individuals or small job shops typically don't have the capacity to provide reliable customer support or robust technical documentation. When choosing a scanning software, make sure to choose a company that stands behind their product. And make sure they give the support necessary to make business applications run quickly.
+<h2><strong>SOLUTIONS TO THESE ISSUES DO EXIST</strong></h2>
+<strong> </strong>Companies looking at deploying smartphone-based barcode scanning software should ensure these issues get top priority:
+<ul>
+ 	<li>barcode variety</li>
+ 	<li>scan speed and performanc</li>
+ 	<li>clutterless screens</li>
+ 	<li>security</li>
+ 	<li>vendor support</li>
+</ul>
+When asked about their industry-leading SDK, CortexDecoder®, Code’s CEO Kent Hansen, remarked, “There are many software-based barcode reading options on the market today, but they lack the performance and reliability that is both expected and required to meet the demands of enterprises. For years, Code has been leading the way with best-in-class products. CortexDecoder® continues that tradition, giving our customers a world-class software platform that supports their business needs.”
+
+<img class="alignright" src="https://codecorp.com/wp-content/uploads/2020/06/cortex-decoder-logo-color.png" sizes="(max-width: 300px) 100vw, 300px" srcset="https://codecorp.com/wp-content/uploads/2020/06/1_cortex-decoder-logo-color.png 150w, https://codecorp.com/wp-content/uploads/2020/06/cortex-decoder-logo-color.png 300w, https://codecorp.com/wp-content/uploads/2020/06/1_cortex-decoder-logo-color.png 450w, https://codecorp.com/wp-content/uploads/2020/06/1_cortex-decoder-logo-color.png 600w, https://codecorp.com/wp-content/uploads/2020/06/1_cortex-decoder-logo-color.png 750w, https://codecorp.com/wp-content/uploads/2020/06/1_cortex-decoder-logo-color.png 900w" alt="cortex-decoder-logo-color" width="300" height="66" />CortexDecoder® integrates with any device and with any operating system, including iOS, Android, Windows and Linux®. It reads all major 1D, 2D, Postal, and direct part mark barcodes. It offers the flexibility to toggle on/off the symbologies of interest. Code’s scientists and experts developed the algorithms to quickly decode poor quality, damaged, and even curved barcodes. The scanning solution speed works measurably faster than our competitors, and we guarantee our accuracy.
+
+Code takes pride in our "first time-every time" motto. Our goal is to live up to the promise of superior accuracy and speed. If you’re ready to learn more about what the CortexDecoder® can do for your company, contact us today at 801-495-2200. We’d love to show you all the ways we can make your work life easier.
+
+</div>
+</div>
+&nbsp;
